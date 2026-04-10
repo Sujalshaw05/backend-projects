@@ -1,4 +1,4 @@
-🧩 Todo Microservices Architecture (Node.js + MySQL)
+🧩 Todo Microservices Architecture (Node.js + MongoDB)
 
 A scalable, production-ready Todo Application built using Microservices Architecture with Node.js and MySQL. Each service is independently deployable and communicates via an API Gateway.
 
